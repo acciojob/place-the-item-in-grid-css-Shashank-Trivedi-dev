@@ -1,5 +1,7 @@
 .holder{
 	display:grid;
 	width:200px;
+	grid-template-columns: repeat(2,100px);
+	border:2px solid black;
 }
 /* Your CSS Code here. */
